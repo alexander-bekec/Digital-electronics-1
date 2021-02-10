@@ -1,7 +1,21 @@
 # Digital-electronics-1
 
 ## Podnadpis
+### Podpodnadpis
 
+https://www.vutbr.cz/
+_Link na stránku **školy**_
+
+* Predmet 1
+* Predmet 2
+  * Predmet 2a
+  * Predmet 2b
+  
+1. Predmet 1
+1. Predmet 2
+  1. Predmet 2a
+  1. Predmet 2b
+  
 ```vhdl
 library IEEE;
 use IEEE.std_logic_1164.all;
