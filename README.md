@@ -4,6 +4,7 @@
 ### Podpodnadpis
 
 https://www.vutbr.cz/
+
 _Link na stránku **školy**_
 
 * Predmet 1
@@ -13,8 +14,8 @@ _Link na stránku **školy**_
   
 1. Predmet 1
 1. Predmet 2
-  1. Predmet 2a
-  1. Predmet 2b
+   1. Predmet 2a
+   1. Predmet 2b
   
 ```vhdl
 library IEEE;
