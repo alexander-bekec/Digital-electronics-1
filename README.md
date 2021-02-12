@@ -6,6 +6,7 @@
 https://www.vutbr.cz/
 
 _Link na stránku **školy**_
+~~Nejaký prečiarknutý odkaz~~
 
 * Predmet 1
 * Predmet 2
@@ -16,6 +17,11 @@ _Link na stránku **školy**_
 1. Predmet 2
    1. Predmet 2a
    1. Predmet 2b
+   
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
   
 ```vhdl
 library IEEE;
