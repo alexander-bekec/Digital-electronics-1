@@ -20,7 +20,7 @@ end entity gates;
 
 architecture dataflow of gates is
 begin
-	f1_o <= x_i and (not x_i);
+    f1_o <= x_i and (not x_i);
     f2_o <= x_i or (not x_i);
     f3_o <= x_i or x_i or x_i;
     f4_o <= x_i and x_i and x_i;
@@ -50,7 +50,7 @@ end entity gates;
 
 architecture dataflow of gates is
 begin
-	f1a_o <= (x_i and y_i) or (x_i and z_i);
+    f1a_o <= (x_i and y_i) or (x_i and z_i);
     f1b_o <= x_i and (y_i or z_i);
     f2a_o <= (x_i or y_i) and (x_i or z_i);
     f2b_o <= x_i or (y_i and z_i);
