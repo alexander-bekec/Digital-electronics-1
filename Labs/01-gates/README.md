@@ -27,3 +27,32 @@ begin
     
 end architecture dataflow;
 ```
+
+## 2. Distributive Laws:
+
+https://www.edaplayground.com/x/RY5v
+```VHDL
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity gates is
+	port(
+    	x_i : in std_logic;
+        y_i : in std_logic;
+        z_i : in std_logic;
+        f1a_o : out std_logic;
+        f1b_o : out std_logic;
+        f2a_o : out std_logic;
+        f2b_o : out std_logic
+    );	
+end entity gates;
+
+architecture dataflow of gates is
+begin
+	f1a_o <= (x_i and y_i) or (x_i and z_i);
+    f1b_o <= x_i and (y_i or z_i);
+    f2a_o <= (x_i or y_i) and (x_i or z_i);
+    f2b_o <= x_i or (y_i and z_i);
+    
+end architecture dataflow;
+```
