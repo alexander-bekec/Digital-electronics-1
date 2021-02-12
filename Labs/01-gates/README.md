@@ -32,6 +32,7 @@ end architecture dataflow;
 
 https://www.edaplayground.com/x/RY5v
 ```VHDL
+--Distributive Laws
 library IEEE;
 use IEEE.std_logic_1164.all;
 
