@@ -82,7 +82,7 @@ end entity gates;
 
 architecture dataflow of gates is
 begin
-	f1_o <= ((not b_i) and a_i) or ((not c_i) and (not b_i));
+    f1_o <= ((not b_i) and a_i) or ((not c_i) and (not b_i));
     f2_o <= not ((not ((not b_i) and a_i)) and (not ((not c_i) and (not b_i))));
     f3_o <= (not (b_i or (not a_i))) or (not (c_i or b_i));
     
