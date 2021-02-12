@@ -27,6 +27,7 @@ begin
     
 end architecture dataflow;
 ```
+![](IMAGES/01_boolean_postulates.png)
 
 ## 2. Distributive Laws:
 
@@ -57,3 +58,4 @@ begin
     
 end architecture dataflow;
 ```
+![](IMAGES/02_distributive_laws.png)
