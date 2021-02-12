@@ -1,4 +1,5 @@
 # Vypracovanie PC_1
+https://github.com/alexander-bekec
 
 ## 1. Boolean Postulates:
 
