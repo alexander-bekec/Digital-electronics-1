@@ -1,5 +1,6 @@
 # Vypracovanie PC_1
-https://github.com/alexander-bekec
+Alexander Bekeč, 221096
+https://github.com/alexander-bekec/Digital-electronics-1
 
 ## 1. Boolean Postulates:
 
