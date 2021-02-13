@@ -5,6 +5,8 @@ https://github.com/alexander-bekec/Digital-electronics-1
 
 ## 1. Boolean Postulates:
 
+![](IMAGES/01_zadanie.png)
+
 https://www.edaplayground.com/x/bG6s
 ```VHDL
 --Boolean Postulates
@@ -33,6 +35,8 @@ end architecture dataflow;
 ![](IMAGES/01_boolean_postulates.png)
 
 ## 2. Distributive Laws:
+
+![](IMAGES/02_zadanie.png)
 
 https://www.edaplayground.com/x/RY5v
 ```VHDL
@@ -64,6 +68,8 @@ end architecture dataflow;
 ![](IMAGES/02_distributive_laws.png)
 
 ## 3. DeMorgan's Laws
+
+![](IMAGES/03_zadanie.png)
 
 https://www.edaplayground.com/x/MDrq
 ```VHDL
