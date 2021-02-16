@@ -5,7 +5,7 @@ https://github.com/alexander-bekec/Digital-electronics-1
 
 ## 1. Boolean Postulates:
 
-![](IMAGES/01_zadanie.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/01_zadanie.png)
 
 https://www.edaplayground.com/x/bG6s
 ```VHDL
@@ -36,7 +36,7 @@ end architecture dataflow;
 
 ## 2. Distributive Laws:
 
-![](IMAGES/02_zadanie.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/02_zadanie.png)
 
 https://www.edaplayground.com/x/RY5v
 ```VHDL
@@ -65,11 +65,11 @@ begin
     
 end architecture dataflow;
 ```
-![](IMAGES/02_distributive_laws.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/02_distributive_laws.png)
 
 ## 3. DeMorgan's Laws
 
-![](IMAGES/03_zadanie.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/03_zadanie.png)
 
 https://www.edaplayground.com/x/MDrq
 ```VHDL
@@ -96,7 +96,7 @@ begin
     
 end architecture dataflow;
 ```
-![](IMAGES/03_demorgans_laws.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/03_demorgans_laws.png)
 
 | **c** | **b** | **a** | **f(c,b,a)** |
 | :-: | :-: | :-: | :-: |
