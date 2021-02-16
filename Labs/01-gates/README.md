@@ -32,7 +32,7 @@ begin
     
 end architecture dataflow;
 ```
-![](IMAGES/01_boolean_postulates.png)
+![](https://github.com/alexander-bekec/Digital-electronics-1/blob/main/Labs/01-gates/IMAGES/01_boolean_postulates.png)
 
 ## 2. Distributive Laws:
 
