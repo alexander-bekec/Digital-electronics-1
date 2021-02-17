@@ -21,3 +21,5 @@ Link to depository: https://github.com/alexander-bekec/Digital-electronics-1
 | 13 | 1 1 | 0 1 | 1 | 0 | 0 |
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
+
+![](IMAGES/00_canonical_forms.png)
