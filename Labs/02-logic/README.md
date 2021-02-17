@@ -1,4 +1,4 @@
-# Vypracovanie PC_1
+# Vypracovanie PC_2
 Alexander Bekeč, 221096
 
 Link to depository: https://github.com/alexander-bekec/Digital-electronics-1
