@@ -1,0 +1,28 @@
+01 - Quick Start > Create Project
+02 - Okno "Create a New Vidado Project"
+03 - Okno "Project Name"
+04 - Okno "Project Type"
+05 - Okno "Add Sources"
+06 - Okno "Create Source File"
+07 - Okno "Add Sources" - Vytvorený súbor
+08 - Okno "Add Constraints (optional)" - Create
+09 - Okno "Create Constraints File"
+10 - Okno "Add Constraints (optional)" - Vytvorený súbor
+11 - Okno "Add Constraints (optional)" - Add
+12 - Okno "Add Constraints File"
+13 - Okno "Add Constraints (optional)" - Pridaný súbor
+14 - Okno "Default Part" - Parts
+15 - Okno "Default Part" - Boards
+16 - Okno "New Project Summary"
+17 - Add Sources...
+18 - Okno "Add Sources" - Simulation Source
+19 - Okno "Create Source File"
+20 - Okno "Add or Create Simulation Sources" - Vytvorený súbor
+21 - Run Simulation
+22 - Run Behavioral Simulation
+23 - Okno "Add Sources" - Design Source
+24 - Okno "Add Sources" - Constraints
+25 - Okno "Add or Create Simulation Sources"
+26 - Okno "Add or Create Design Sources" - Add
+27 - Okno "Add Source Files"
+28 - Okno "Add or Create Design Sources" - Pridaný súbor
