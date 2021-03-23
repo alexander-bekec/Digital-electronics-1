@@ -1,0 +1,23 @@
+{
+  signal:
+  [
+    {name:'Duration', wave: 'x.222222222222x.', data: ['4ms','4ms','4ms','4ms','4ms','4ms','4ms','4ms','4ms','4ms','4ms','4ms']},
+    ['Digit position',
+      {name: 'Common anode: AN(3)', wave: 'xx01..01..01..xx'},
+      {name: 'AN(2)', wave: 'xx101..01..01.xx'},
+      {name: 'AN(1)', wave: 'xx1.01..01..01xx'},
+      {name: 'AN(0)', wave: 'xx1..01..01..0xx'},
+    ],
+    ['Seven-segment data',
+      {name: '4-digit value to display', wave: 'xx333355559999xx', data: ['3','1','4','2','3','1','4','2','3','1','4','2']},
+      {name: 'Cathod A: CA', wave: 'xx01.0.1.0.1.0xx'},
+      {name: 'CB', wave: 'xx0...........xx'},
+      {name: 'CC', wave: 'xx0..10..10..1xx'},
+      {name: 'CD', wave: 'xx01.0.1.0.1.0xx'},
+      {name: 'CE', wave: 'xx1..01..01..0xx'},
+      {name: 'CF', wave: 'xx1.01..01..01xx'},
+      {name: 'CG', wave: 'xx010..10..10.xx'},
+    ],
+    {name: 'Decimal point: DP', wave: 'xx01..01..01..xx'},
+  ],
+}
