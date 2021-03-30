@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_arst.vhd,1617116366,vhdl,,,,tb_d_ff_arst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_rst.vhd,1617116030,vhdl,,,,tb_d_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd,1617106011,vhdl,,,,tb_d_latch,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_jk_ff_rst.vhd,1617115429,vhdl,,,,tb_jk_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_t_ff_rst.vhd,1617113798,vhdl,,,,tb_t_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_top.vhd,1617122309,vhdl,,,,tb_top,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_arst.vhd,1617111120,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_arst.vhd,,,d_ff_arst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_rst.vhd,1617110942,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/top.vhd,,,d_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_latch.vhd,1617111296,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd,,,d_latch,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/jk_ff_rst.vhd,1617110943,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_jk_ff_rst.vhd,,,jk_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/t_ff_rst.vhd,1617110956,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_t_ff_rst.vhd,,,t_ff_rst,,,,,,,,
+C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/top.vhd,1617122313,vhdl,C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_top.vhd,,,top,,,,,,,,

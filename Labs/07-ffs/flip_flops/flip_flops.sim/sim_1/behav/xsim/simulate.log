@@ -1,0 +1,8 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: start of p_stimulus
+Time: 0 ps  Iteration: 0  Process: /tb_d_latch/p_stimulus  File: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd
+Note: start of p_en
+Time: 0 ps  Iteration: 0  Process: /tb_d_latch/p_en  File: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd
+Note: start of p_arst
+Time: 0 ps  Iteration: 0  Process: /tb_d_latch/p_arst  File: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd
