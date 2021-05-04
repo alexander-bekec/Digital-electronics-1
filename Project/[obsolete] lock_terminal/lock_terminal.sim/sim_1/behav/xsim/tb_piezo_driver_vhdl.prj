@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lock_terminal.srcs/sources_1/new/clock_devider.vhd" \
+"../../../../lock_terminal.srcs/sources_1/new/mux_2to1.vhd" \
+"../../../../lock_terminal.srcs/sources_1/new/piezo_driver.vhd" \
+"../../../../lock_terminal.srcs/sim_1/new/tb_piezo_driver.vhd" \
+
+# Do not sort compile order
+nosort

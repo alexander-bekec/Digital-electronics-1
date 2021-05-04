@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: Stimulus process started
+Time: 0 ps  Iteration: 0  Process: /tb_door_lock_core/p_stimulus  File: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/project_door_lock/project_door_lock.srcs/sim_1/new/tb_door_lock_core.vhd
+Note: Stimulus process finished
+Time: 1300 ns  Iteration: 0  Process: /tb_door_lock_core/p_stimulus  File: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/project_door_lock/project_door_lock.srcs/sim_1/new/tb_door_lock_core.vhd

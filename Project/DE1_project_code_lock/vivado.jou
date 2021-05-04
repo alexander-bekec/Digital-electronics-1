@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  4 12:49:30 2021
+# Process ID: 11320
+# Current directory: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/DE1_project_code_lock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20264 C:\Users\alexa\Documents\alexander-bekec\Digital-electronics-1\Project\DE1_project_code_lock\DE1_project_code_lock.xpr
+# Log file: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/DE1_project_code_lock/vivado.log
+# Journal file: C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/DE1_project_code_lock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/alexa/Documents/alexander-bekec/Digital-electronics-1/Project/DE1_project_code_lock/DE1_project_code_lock.xpr
+launch_simulation
+source tb_top.tcl
+open_hw_manager
+close_hw_manager
+close_sim
